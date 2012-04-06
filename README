@@ -1,0 +1,33 @@
+A few years ago, a friend asked if I had any interesting problems he and a
+coworker of his might enjoy.
+
+This is one of the problems I gave them--the synchronized state machine
+problem. My description of the problem can be found in the file "state.pdf".
+This problem is also known as the firing squad problem, and is described
+here on Wikipedia:
+
+http://en.wikipedia.org/w/index.php?title=Firing_squad_synchronization_problem&oldid=462608569
+
+This is not an easy problem, especially for people (like my friend) who have
+not studied computer science. If you have not studied computer science, you
+can be pleased with yourself if you are able to outline a solution of the
+problem. If you actually produce a complete specification for the state
+machines, you can be extremely pleased with yourself.
+
+If you do go beyond outlining a solution and actually specify completely the
+state machine, I've provided a simulator, in the directory "sim" that will
+simulate the line of state machines so you can try out your solution and
+see it work.
+
+See the "README.txt" in the "sim" directory for instructions on building and
+using the simulator.
+
+The "doc" directory contains the source for the state.pdf file.
+
+The contents of the "sim" directory are licensed under the 2-clause BSD
+license. See the "LICENSE.txt" file in that directory for details.
+
+The contents of the "doc" directory, and "state.pdf", are licensed under
+the Creative Commons Attribution 3.0 Unported License. See "LICENSE.txt"
+in the "doc" directory for more details.
+
